@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Muhammed Abdulkareem</h1>
 <h3 align="center">Engineer in Progress | Building, Learning, Adapting</h3>
 <!-- <img align="right" alt="coding" src="https://cdn.dribbble.com/userupload/20267269/file/still-921fa8116445b5d1446de8b908af4286.gif?resize=400x0"/> -->
